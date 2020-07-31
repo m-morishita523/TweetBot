@@ -3,6 +3,7 @@ import settings
 import json
 import tweepy
 
+# KEYの読みこみ
 API_KEY = settings.CK
 API_SECRET_KEY = settings.CSK
 ACCESS_TOKEN = settings.AT
