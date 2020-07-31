@@ -1,4 +1,4 @@
 # とりあえずtweetさせてみましょう
 import settings
 
-API_KEY = setting.AP
+API_KEY = settings.AP
