@@ -1,5 +1,6 @@
 # TweetBot
-TestMessage : Hello World　\\
+TestMessage : Hello World
+
 TestMessage2 : Kon-nitiwa!
 ## AWS Lambda への関数の追加方法
 1. スクリプトについて
