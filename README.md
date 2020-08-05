@@ -2,7 +2,6 @@
 TestMessage : Hello World
 
 TestMessage : ishiharadesu
-TestMessage1 : 11111
 
 TestMessage2 : Kon-nitiwa!
 TestMessage3 : gitインストール完了
@@ -17,4 +16,3 @@ TestMessage3 : gitインストール完了
     - zipファイルのアップロード後，実行したいスクリプトとメインの関数を「基本設定-ハンドラ」で設定する．
     - token等を環境変数に追加する
     - 定期的に関数を実行させるため，トリガーのEventBridge(CloudWatch Events)を設定する．
-    - shijdfuighsa;h;ahsdo
