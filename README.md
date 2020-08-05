@@ -4,7 +4,7 @@ TestMessage : Hello World
 TestMessage : ishiharadesu
 
 TestMessage2 : Kon-nitiwa!
-TestMessage3 : gitインストール完了
+TestMessage3 : gitインストール完了!!
 
 ## AWS Lambda への関数の追加方法
 1. スクリプトについて
