@@ -6,6 +6,8 @@ TestMessage : ishiharadesu
 TestMessage2 : Kon-nitiwa!
 TestMessage3 : gitインストール完了!!
 
+TestMessage : 榊原です！
+
 ## AWS Lambda への関数の追加方法
 1. スクリプトについて
     - 動かしたいメインの部分を関数として（きちんとdef function(event, context):を用いて名付けたうえで）スクリプトを書く．
